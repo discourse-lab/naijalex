@@ -1,0 +1,114 @@
+{
+  "dimlex": {
+    "konnadv": "adv",
+    "padv": "adv",
+    "subj": "csu",
+    "einzel": "other",
+    "postp": "cco",
+    "v2emb": "cco",
+    "praep": "prep",
+    "apci": "prep",
+    "konj": "cco",
+    "appo": "prep",
+    "coordconj": "cco"
+  },
+
+  "lexconn": {
+    "prep-V-ant": "prep"
+  },
+
+  "bengali": {
+	"adverb": "adv",
+    "Adverb": "adv",
+    "Adverb/postposition": ["adv", "prep"],
+    "Conjunction/adverb": ["adv", "cco", "csu"],
+    "Conjunction": ["cco", "csu"],
+    "Postposition/adverb": ["adv", "prep"],
+    "Postposition": "prep"
+  },
+
+  "lico": {
+    "prepositional": "prep",
+    "subordinating": "csu",
+    "adverbial": "adv",
+    "coodinating": "cco",
+    "coordinating": "cco",
+    "locuzione congiuntiva": "cco",
+    "classe": "other",
+    "avverbio": "adv",
+    "preposizione": "prep"
+  },
+
+  "ptb2": {
+    "PP": "adv",
+    "IN": ["csu", "prep"],
+    "ADVP": "adv",
+    "INTJ": "adv",
+    "CC": "cco",
+    "RB": "adv",
+    "VB": "other",
+    "phrase": "other",
+    "JJ": "adv",
+    "RBR": "adv",
+    "UCP": "cco",
+    "NN": "other",
+    "NNP": "other"
+  },
+
+  "czlex": {
+    "adjective": "other",
+    "adverb": "adv",
+    "conjunction coordinating": "cco",
+    "conjunction subordinating": "csu",
+    "noun": "other",
+    "numeral": "other",
+    "particle": "other",
+    "preposition": "prep",
+    "pronoun": "other",
+    "punctuation": "other",
+    "verb": "other"
+  },
+  "ukrainian": {
+	"adverb": "adv",
+	"subord_conj": "csu",
+	"other": "other",
+	"coord_conj": "cco",
+	"preposition": "prep"
+  },
+  "turkish" : {
+	"ADV_ADP": ["adv", "other"],
+	"OTHER": "other",
+    "Converb": "csu",
+    "ADP": "csu",
+    "CCONJ": "cco",
+    "ADV": "adv"
+  },
+  "naijalex": {
+    "CCONJ": "cco",
+    "ADP": "other",
+    "ADV": "adv",
+    "AUX": "other",
+    "ADJ": "other",
+    "SCONJ": "csu",
+	"ADP_SCONJ": "other",
+	"ADP_ADV_ADP": "other",
+	"ADP_ADP": "other",
+	"ADP_ADJ_ADP": "other",
+	"ADP_ADP_SCONJ": "other",
+	"AUX_SCONJ": "other",
+	"ADP_DET_NOUN": "other",
+	"DET_NOUN": "other",
+	"NOUN_DET_NOUN": "other",
+	"ADP_NOUN": "other",
+	"ADV_SCONJ": "other",
+	"ADV_ADV": "other",
+	"AUX_PRON": "other",
+	"ADV_DET": "other",
+	"ADV_PRON": "other",
+	"SCONJ_PRON": "csu",
+	"SCONJ_SCONJ": "csu",
+	"ADP_VERB": "other",
+	"SCONJ_AUX_SCONJ": "other",
+	"PART": "other"
+  }
+}
